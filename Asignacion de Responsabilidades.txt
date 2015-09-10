@@ -1,0 +1,12 @@
+Terminar Bodega Luis D
+Terminar Quimico Reidy
+Terminar Detalle Inform Pao
+Registro Bombas Pao 
+Registro QuimicosDistribuidos Reidy
+Nueva Tabla Relacion laboral Luis D
+Relato UML Luis D
+
+Revisar index.doc para ver otras responsabilidades.
+
+Revisar requerimento de Informe y detalle informe, se cambio la llave foranea por error.
+Detalle_informe se le agrega id_informe y en la tabla informe se elimina el id_Detalle_Informe
